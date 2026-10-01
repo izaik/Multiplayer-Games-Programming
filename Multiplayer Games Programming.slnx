@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Add Two Integers/Add Two Integers.csproj" />
   <Project Path="Area and Perimeter of a Rectangle/Area and Perimeter of a Rectangle.csproj" />
+  <Project Path="Guessing Game/Guessing Game.csproj" Id="c648be96-5fcc-4cff-95e0-5eaa6b606bbf" />
   <Project Path="Ten Integers/Ten Integers.csproj" />
 </Solution>
