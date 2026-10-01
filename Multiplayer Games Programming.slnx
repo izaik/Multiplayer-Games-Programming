@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Add Two Integers/Add Two Integers.csproj" />
   <Project Path="Area and Perimeter of a Rectangle/Area and Perimeter of a Rectangle.csproj" />
+  <Project Path="Ten Integers/Ten Integers.csproj" />
 </Solution>
